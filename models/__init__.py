@@ -9,7 +9,7 @@ class EsperClass(enum.IntEnum):
     SUPPORTO = 4
 
 
-@dataclass
+@dataclass(frozen=True, eq=True)
 class Esper:
     name: str
     alternative: str

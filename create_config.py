@@ -14,7 +14,7 @@ def create_config(file_name: str):
 
             story, cube, kronos, apep, fafnir, tower, war_def, war_atk = values.split(",")
             esper_class = line.split(":")[1].split(" ")[1].replace("\n", "")
-            esper_output.append({name: {
+            esper_output.append({
                 "name": name,
                 "alternative": alternative,
                 "story": story,
@@ -26,7 +26,7 @@ def create_config(file_name: str):
                 "war_def": war_def,
                 "war_atk": war_atk,
                 "class": esper_class
-            }})
+            })
 
         with open("config.json", "w+") as file:
             file.write(json.dumps({"espers": esper_output}))

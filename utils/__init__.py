@@ -6,4 +6,6 @@ def text_to_esper_class(text: str) -> Optional[EsperClass]:
         if text.upper() == elem.name:
             return elem
 
+    return None
+
 

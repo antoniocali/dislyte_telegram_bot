@@ -1,4 +1,8 @@
-from utils import text_to_esper_class
+from os import path
+from configuration import Config
+
 
 if __name__ == '__main__':
-    pass
+    abs_path = path.abspath("config.json")
+    config = Config(abs_path)
+    print(set([config.get_esper("q"), config.get_esper("eros")]))

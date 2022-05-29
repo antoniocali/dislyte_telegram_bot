@@ -1,1069 +1,927 @@
 {
   "espers": [
     {
-      "Gabrielle": {
-        "name": "Gabrielle",
-        "alternative": "Njord",
-        "story": "14",
-        "cube": "15",
-        "kronos": "10",
-        "apep": "14",
-        "fafnir": "15",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Sally": {
-        "name": "Sally",
-        "alternative": "Sif",
-        "story": "13",
-        "cube": "15",
-        "kronos": "9",
-        "apep": "15",
-        "fafnir": "14",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Unas": {
-        "name": "Unas",
-        "alternative": "Shu",
-        "story": "15",
-        "cube": "15",
-        "kronos": "14",
-        "apep": "11",
-        "fafnir": "13",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Clara": {
-        "name": "Clara",
-        "alternative": "Hera",
-        "story": "13",
-        "cube": "15",
-        "kronos": "8",
-        "apep": "14",
-        "fafnir": "8",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "LinXiao": {
-        "name": "LinXiao",
-        "alternative": "TigreBianca",
-        "story": "15",
-        "cube": "14",
-        "kronos": "15",
-        "apep": "15",
-        "fafnir": "2",
-        "tower": "15",
-        "war_def": "12",
-        "war_atk": "15",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Fabrice": {
-        "name": "Fabrice",
-        "alternative": "Freys",
-        "story": "11",
-        "cube": "13",
-        "kronos": "6",
-        "apep": "14",
-        "fafnir": "11",
-        "tower": "11",
-        "war_def": "11",
-        "war_atk": "14",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Lucas": {
-        "name": "Lucas",
-        "alternative": "Apollo",
-        "story": "13",
-        "cube": "15",
-        "kronos": "14",
-        "apep": "4",
-        "fafnir": "7",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Chloe": {
-        "name": "Chloe",
-        "alternative": "Medea",
-        "story": "12",
-        "cube": "12",
-        "kronos": "14",
-        "apep": "13",
-        "fafnir": "7",
-        "tower": "12",
-        "war_def": "11",
-        "war_atk": "14",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Catherine": {
-        "name": "Catherine",
-        "alternative": "Hela",
-        "story": "8",
-        "cube": "12",
-        "kronos": "5",
-        "apep": "9",
-        "fafnir": "14",
-        "tower": "11",
-        "war_def": "14",
-        "war_atk": "13",
-        "class": "Supporto"
-      }
-    },
-    {
-      "LiLing": {
-        "name": "LiLing",
-        "alternative": "Nezha",
-        "story": "15",
-        "cube": "14",
-        "kronos": "14",
-        "apep": "7",
-        "fafnir": "8",
-        "tower": "14",
-        "war_def": "11",
-        "war_atk": "14",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "YeSuhua": {
-        "name": "YeSuhua",
-        "alternative": "ShaoSiming",
-        "story": "14",
-        "cube": "12",
-        "kronos": "14",
-        "apep": "13",
-        "fafnir": "5",
-        "tower": "14",
-        "war_def": "12",
-        "war_atk": "12",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Narmer": {
-        "name": "Narmer",
-        "alternative": "Ra",
-        "story": "10",
-        "cube": "14",
-        "kronos": "12",
-        "apep": "12",
-        "fafnir": "2",
-        "tower": "14",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Donar": {
-        "name": "Donar",
-        "alternative": "Thor",
-        "story": "12",
-        "cube": "13",
-        "kronos": "10",
-        "apep": "7",
-        "fafnir": "7",
-        "tower": "12",
-        "war_def": "15",
-        "war_atk": "14",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Tiye": {
-        "name": "Tiye",
-        "alternative": "Nut",
-        "story": "12",
-        "cube": "13",
-        "kronos": "13",
-        "apep": "8",
-        "fafnir": "2",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Hyde": {
-        "name": "Hyde",
-        "alternative": "Hades",
-        "story": "7",
-        "cube": "12",
-        "kronos": "2",
-        "apep": "12",
-        "fafnir": "12",
-        "tower": "9",
-        "war_def": "13",
-        "war_atk": "13",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Sienna": {
-        "name": "Sienna",
-        "alternative": "Gaia",
-        "story": "13",
-        "cube": "14",
-        "kronos": "6",
-        "apep": "7",
-        "fafnir": "4",
-        "tower": "15",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "TangYun": {
-        "name": "TangYun",
-        "alternative": "MacacoaOrecchie",
-        "story": "10",
-        "cube": "13",
-        "kronos": "6",
-        "apep": "8",
-        "fafnir": "15",
-        "tower": "14",
-        "war_def": "5",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Triki": {
-        "name": "Triki",
-        "alternative": "Loki",
-        "story": "8",
-        "cube": "15",
-        "kronos": "1",
-        "apep": "2",
-        "fafnir": "11",
-        "tower": "14",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Controllo"
-      }
-    },
-    {
-      "LongMian": {
-        "name": "LongMian",
-        "alternative": "AoBing",
-        "story": "14",
-        "cube": "14",
-        "kronos": "7",
-        "apep": "5",
-        "fafnir": "5",
-        "tower": "14",
-        "war_def": "14",
-        "war_atk": "15",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Raven": {
-        "name": "Raven",
-        "alternative": "Odin",
-        "story": "10",
-        "cube": "15",
-        "kronos": "5",
-        "apep": "4",
-        "fafnir": "7",
-        "tower": "13",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Sander": {
-        "name": "Sander",
-        "alternative": "Set",
-        "story": "11",
-        "cube": "12",
-        "kronos": "15",
-        "apep": "11",
-        "fafnir": "6",
-        "tower": "14",
-        "war_def": "7",
-        "war_atk": "11",
-        "class": "Controllo"
-      }
-    },
-    {
-      "HengYue": {
-        "name": "HengYue",
-        "alternative": "Chang'e",
-        "story": "10",
-        "cube": "12",
-        "kronos": "5",
-        "apep": "12",
-        "fafnir": "9",
-        "tower": "12",
-        "war_def": "10",
-        "war_atk": "11",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Lewis": {
-        "name": "Lewis",
-        "alternative": "Ares",
-        "story": "11",
-        "cube": "13",
-        "kronos": "14",
-        "apep": "14",
-        "fafnir": "2",
-        "tower": "13",
-        "war_def": "8",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "RenSi": {
-        "name": "RenSi",
-        "alternative": "TartarugaNera",
-        "story": "11",
-        "cube": "14",
-        "kronos": "8",
-        "apep": "7",
-        "fafnir": "2",
-        "tower": "13",
-        "war_def": "15",
-        "war_atk": "14",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Jeanne": {
-        "name": "Jeanne",
-        "alternative": "Gerd",
-        "story": "11",
-        "cube": "11",
-        "kronos": "11",
-        "apep": "1",
-        "fafnir": "11",
-        "tower": "11",
-        "war_def": "11",
-        "war_atk": "14",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Lynn": {
-        "name": "Lynn",
-        "alternative": "Hathor",
-        "story": "10",
-        "cube": "9",
-        "kronos": "5",
-        "apep": "11",
-        "fafnir": "14",
-        "tower": "9",
-        "war_def": "7",
-        "war_atk": "9",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Bonnie": {
-        "name": "Bonnie",
-        "alternative": "Eris",
-        "story": "9",
-        "cube": "11",
-        "kronos": "5",
-        "apep": "4",
-        "fafnir": "6",
-        "tower": "12",
-        "war_def": "15",
-        "war_atk": "15",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Tevor": {
-        "name": "Tevor",
-        "alternative": "Sfinge",
-        "story": "11",
-        "cube": "13",
-        "kronos": "7",
-        "apep": "9",
-        "fafnir": "6",
-        "tower": "10",
-        "war_def": "10",
-        "war_atk": "13",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Asenath": {
-        "name": "Asenath",
-        "alternative": "Nefertem",
-        "story": "12",
-        "cube": "9",
-        "kronos": "11",
-        "apep": "8",
-        "fafnir": "5",
-        "tower": "11",
-        "war_def": "12",
-        "war_atk": "12",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Pritzker": {
-        "name": "Pritzker",
-        "alternative": "Mimir",
-        "story": "14",
-        "cube": "15",
-        "kronos": "5",
-        "apep": "5",
-        "fafnir": "2",
-        "tower": "15",
-        "war_def": "12",
-        "war_atk": "14",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Berenice": {
-        "name": "Berenice",
-        "alternative": "Bastet",
-        "story": "12",
-        "cube": "10",
-        "kronos": "7",
-        "apep": "7",
-        "fafnir": "15",
-        "tower": "9",
-        "war_def": "6",
-        "war_atk": "7",
-        "class": "Supporto"
-      }
-    },
-    {
-      "JinYuyao": {
-        "name": "JinYuyao",
-        "alternative": "QueenMother",
-        "story": "7",
-        "cube": "13",
-        "kronos": "4",
-        "apep": "7",
-        "fafnir": "5",
-        "tower": "14",
-        "war_def": "11",
-        "war_atk": "13",
-        "class": "Supporto"
-      }
-    },
-    {
-      "UnkyChai": {
-        "name": "UnkyChai",
-        "alternative": "YueLao",
-        "story": "11",
-        "cube": "12",
-        "kronos": "11",
-        "apep": "11",
-        "fafnir": "5",
-        "tower": "11",
-        "war_def": "7",
-        "war_atk": "9",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Lauren": {
-        "name": "Lauren",
-        "alternative": "Heket",
-        "story": "7",
-        "cube": "12",
-        "kronos": "6",
-        "apep": "6",
-        "fafnir": "11",
-        "tower": "12",
-        "war_def": "8",
-        "war_atk": "8",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Celine": {
-        "name": "Celine",
-        "alternative": "Siren",
-        "story": "12",
-        "cube": "12",
-        "kronos": "12",
-        "apep": "6",
-        "fafnir": "5",
-        "tower": "10",
-        "war_def": "9",
-        "war_atk": "10",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Biondina": {
-        "name": "Biondina",
-        "alternative": "Poseidon",
-        "story": "7",
-        "cube": "8",
-        "kronos": "8",
-        "apep": "2",
-        "fafnir": "7",
-        "tower": "10",
-        "war_def": "12",
-        "war_atk": "15",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Mona": {
-        "name": "Mona",
-        "alternative": "Artemis",
-        "story": "15",
-        "cube": "10",
-        "kronos": "11",
-        "apep": "4",
-        "fafnir": "5",
-        "tower": "9",
-        "war_def": "10",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Freddy": {
-        "name": "Freddy",
-        "alternative": "Fenrir",
-        "story": "11",
-        "cube": "10",
-        "kronos": "12",
-        "apep": "12",
-        "fafnir": "1",
-        "tower": "9",
-        "war_def": "8",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Eira": {
-        "name": "Eira",
-        "alternative": "Freya",
-        "story": "12",
-        "cube": "13",
-        "kronos": "14",
-        "apep": "7",
-        "fafnir": "1",
-        "tower": "11",
-        "war_def": "9",
-        "war_atk": "8",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Drew": {
-        "name": "Drew",
-        "alternative": "Anubis",
-        "story": "12",
-        "cube": "8",
-        "kronos": "12",
-        "apep": "12",
-        "fafnir": "2",
-        "tower": "8",
-        "war_def": "7",
-        "war_atk": "12",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "TangXuan": {
-        "name": "TangXuan",
-        "alternative": "SunWukong",
-        "story": "12",
-        "cube": "13",
-        "kronos": "6",
-        "apep": "8",
-        "fafnir": "2",
-        "tower": "11",
-        "war_def": "10",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Melanie": {
-        "name": "Melanie",
-        "alternative": "Medusa",
-        "story": "11",
-        "cube": "10",
-        "kronos": "14",
-        "apep": "7",
-        "fafnir": "1",
-        "tower": "9",
-        "war_def": "10",
-        "war_atk": "11",
-        "class": "Controllo"
-      }
-    },
-    {
-      "ChangPu": {
-        "name": "ChangPu",
-        "alternative": "YaoJi",
-        "story": "11",
-        "cube": "9",
-        "kronos": "8",
-        "apep": "12",
-        "fafnir": "9",
-        "tower": "8",
-        "war_def": "5",
-        "war_atk": "5",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Dhalia": {
-        "name": "Dhalia",
-        "alternative": "Calypso",
-        "story": "9",
-        "cube": "8",
-        "kronos": "12",
-        "apep": "2",
-        "fafnir": "2",
-        "tower": "12",
-        "war_def": "12",
-        "war_atk": "13",
-        "class": "Supporto"
-      }
-    },
-    {
-      "LuYi": {
-        "name": "LuYi",
-        "alternative": "Dayi",
-        "story": "9",
-        "cube": "7",
-        "kronos": "5",
-        "apep": "6",
-        "fafnir": "15",
-        "tower": "4",
-        "war_def": "4",
-        "war_atk": "6",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Q": {
-        "name": "Q",
-        "alternative": "Eros",
-        "story": "9",
-        "cube": "10",
-        "kronos": "10",
-        "apep": "11",
-        "fafnir": "2",
-        "tower": "9",
-        "war_def": "5",
-        "war_atk": "7",
-        "class": "Supporto"
-      }
-    },
-    {
-      "XieChuyi": {
-        "name": "XieChuyi",
-        "alternative": "GuardiaMortaHei",
-        "story": "9",
-        "cube": "9",
-        "kronos": "8",
-        "apep": "3",
-        "fafnir": "7",
-        "tower": "8",
-        "war_def": "7",
-        "war_atk": "9",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "XiaYuzhi": {
-        "name": "XiaYuzhi",
-        "alternative": "GuardiaMortaBai",
-        "story": "8",
-        "cube": "9",
-        "kronos": "6",
-        "apep": "3",
-        "fafnir": "6",
-        "tower": "8",
-        "war_def": "6",
-        "war_atk": "6",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Cecilia": {
-        "name": "Cecilia",
-        "alternative": "Isis",
-        "story": "8",
-        "cube": "9",
-        "kronos": "5",
-        "apep": "7",
-        "fafnir": "2",
-        "tower": "8",
-        "war_def": "8",
-        "war_atk": "11",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Djoser": {
-        "name": "Djoser",
-        "alternative": "Atum",
-        "story": "7",
-        "cube": "8",
-        "kronos": "8",
-        "apep": "10",
-        "fafnir": "2",
-        "tower": "7",
-        "war_def": "7",
-        "war_atk": "7",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Zelmer": {
-        "name": "Zelmer",
-        "alternative": "Sekhmet",
-        "story": "4",
-        "cube": "7",
-        "kronos": "5",
-        "apep": "11",
-        "fafnir": "12",
-        "tower": "4",
-        "war_def": "3",
-        "war_atk": "3",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Anesidora": {
-        "name": "Anesidora",
-        "alternative": "Pandora",
-        "story": "7",
-        "cube": "15",
-        "kronos": "1",
-        "apep": "1",
-        "fafnir": "1",
-        "tower": "15",
-        "war_def": "8",
-        "war_atk": "11",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Jacob": {
-        "name": "Jacob",
-        "alternative": "Jormungand",
-        "story": "9",
-        "cube": "12",
-        "kronos": "2",
-        "apep": "15",
-        "fafnir": "2",
-        "tower": "7",
-        "war_def": "4",
-        "war_atk": "4",
-        "class": "Controllo"
-      }
-    },
-    {
-      "JiangMan": {
-        "name": "JiangMan",
-        "alternative": "MengPo",
-        "story": "12",
-        "cube": "10",
-        "kronos": "5",
-        "apep": "1",
-        "fafnir": "2",
-        "tower": "11",
-        "war_def": "5",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "LuoYan": {
-        "name": "LuoYan",
-        "alternative": "YanluoWang",
-        "story": "8",
-        "cube": "14",
-        "kronos": "1",
-        "apep": "1",
-        "fafnir": "1",
-        "tower": "13",
-        "war_def": "8",
-        "war_atk": "9",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Chalmers": {
-        "name": "Chalmers",
-        "alternative": "Idun",
-        "story": "1",
-        "cube": "8",
-        "kronos": "13",
-        "apep": "14",
-        "fafnir": "2",
-        "tower": "7",
-        "war_def": "1",
-        "war_atk": "1",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Kaylee": {
-        "name": "Kaylee",
-        "alternative": "Anuket",
-        "story": "6",
-        "cube": "7",
-        "kronos": "8",
-        "apep": "2",
-        "fafnir": "3",
-        "tower": "6",
-        "war_def": "7",
-        "war_atk": "8",
-        "class": "Controllo"
-      }
-    },
-    {
-      "Falken": {
-        "name": "Falken",
-        "alternative": "Horus",
-        "story": "7",
-        "cube": "9",
-        "kronos": "3",
-        "apep": "4",
-        "fafnir": "2",
-        "tower": "8",
-        "war_def": "8",
-        "war_atk": "7",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Taylor": {
-        "name": "Taylor",
-        "alternative": "Hercules",
-        "story": "7",
-        "cube": "7",
-        "kronos": "4",
-        "apep": "4",
-        "fafnir": "1",
-        "tower": "7",
-        "war_def": "4",
-        "war_atk": "11",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "BaiLiuli": {
-        "name": "BaiLiuli",
-        "alternative": "SerpenteBianco",
-        "story": "6",
-        "cube": "5",
-        "kronos": "4",
-        "apep": "7",
-        "fafnir": "4",
-        "tower": "4",
-        "war_def": "5",
-        "war_atk": "6",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Alexa": {
-        "name": "Alexa",
-        "alternative": "Aphrodite",
-        "story": "7",
-        "cube": "9",
-        "kronos": "2",
-        "apep": "2",
-        "fafnir": "2",
-        "tower": "7",
-        "war_def": "5",
-        "war_atk": "7",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Leon": {
-        "name": "Leon",
-        "alternative": "Vali",
-        "story": "3",
-        "cube": "8",
-        "kronos": "12",
-        "apep": "5",
-        "fafnir": "2",
-        "tower": "6",
-        "war_def": "2",
-        "war_atk": "2",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Arcana": {
-        "name": "Arcana",
-        "alternative": "Hermes",
-        "story": "4",
-        "cube": "6",
-        "kronos": "2",
-        "apep": "1",
-        "fafnir": "2",
-        "tower": "5",
-        "war_def": "7",
-        "war_atk": "8",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Brynn": {
-        "name": "Brynn",
-        "alternative": "Valchiria",
-        "story": "7",
-        "cube": "6",
-        "kronos": "5",
-        "apep": "5",
-        "fafnir": "3",
-        "tower": "3",
-        "war_def": "4",
-        "war_atk": "4",
-        "class": "Supporto"
-      }
-    },
-    {
-      "LiAo": {
-        "name": "LiAo",
-        "alternative": "TaoTie",
-        "story": "5",
-        "cube": "6",
-        "kronos": "1",
-        "apep": "1",
-        "fafnir": "1",
-        "tower": "5",
-        "war_def": "6",
-        "war_atk": "9",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Bardon": {
-        "name": "Bardon",
-        "alternative": "Baldr",
-        "story": "4",
-        "cube": "4",
-        "kronos": "2",
-        "apep": "3",
-        "fafnir": "2",
-        "tower": "4",
-        "war_def": "7",
-        "war_atk": "5",
-        "class": "Difensivo"
-      }
-    },
-    {
-      "Hall": {
-        "name": "Hall",
-        "alternative": "Hodur",
-        "story": "2",
-        "cube": "2",
-        "kronos": "1",
-        "apep": "4",
-        "fafnir": "11",
-        "tower": "1",
-        "war_def": "1",
-        "war_atk": "1",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Helena": {
-        "name": "Helena",
-        "alternative": "Helen",
-        "story": "9",
-        "cube": "3",
-        "kronos": "7",
-        "apep": "4",
-        "fafnir": "2",
-        "tower": "3",
-        "war_def": "2",
-        "war_atk": "2",
-        "class": "Supporto"
-      }
-    },
-    {
-      "Kara": {
-        "name": "Kara",
-        "alternative": "Serket",
-        "story": "6",
-        "cube": "5",
-        "kronos": "1",
-        "apep": "6",
-        "fafnir": "1",
-        "tower": "3",
-        "war_def": "2",
-        "war_atk": "2",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "Layla": {
-        "name": "Layla",
-        "alternative": "Medjed",
-        "story": "2",
-        "cube": "5",
-        "kronos": "1",
-        "apep": "6",
-        "fafnir": "2",
-        "tower": "2",
-        "war_def": "1",
-        "war_atk": "2",
-        "class": "Offensivo"
-      }
-    },
-    {
-      "David": {
-        "name": "David",
-        "alternative": "Jason",
-        "story": "1",
-        "cube": "1",
-        "kronos": "1",
-        "apep": "1",
-        "fafnir": "2",
-        "tower": "1",
-        "war_def": "3",
-        "war_atk": "3",
-        "class": "Offensivo"
-      }
+      "name": "Gabrielle",
+      "alternative": "Njord",
+      "story": "14",
+      "cube": "15",
+      "kronos": "10",
+      "apep": "14",
+      "fafnir": "15",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "Sally",
+      "alternative": "Sif",
+      "story": "13",
+      "cube": "15",
+      "kronos": "9",
+      "apep": "15",
+      "fafnir": "14",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "Unas",
+      "alternative": "Shu",
+      "story": "15",
+      "cube": "15",
+      "kronos": "14",
+      "apep": "11",
+      "fafnir": "13",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "Clara",
+      "alternative": "Hera",
+      "story": "13",
+      "cube": "15",
+      "kronos": "8",
+      "apep": "14",
+      "fafnir": "8",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "LinXiao",
+      "alternative": "TigreBianca",
+      "story": "15",
+      "cube": "14",
+      "kronos": "15",
+      "apep": "15",
+      "fafnir": "2",
+      "tower": "15",
+      "war_def": "12",
+      "war_atk": "15",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Fabrice",
+      "alternative": "Freys",
+      "story": "11",
+      "cube": "13",
+      "kronos": "6",
+      "apep": "14",
+      "fafnir": "11",
+      "tower": "11",
+      "war_def": "11",
+      "war_atk": "14",
+      "class": "Supporto"
+    },
+    {
+      "name": "Lucas",
+      "alternative": "Apollo",
+      "story": "13",
+      "cube": "15",
+      "kronos": "14",
+      "apep": "4",
+      "fafnir": "7",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Controllo"
+    },
+    {
+      "name": "Chloe",
+      "alternative": "Medea",
+      "story": "12",
+      "cube": "12",
+      "kronos": "14",
+      "apep": "13",
+      "fafnir": "7",
+      "tower": "12",
+      "war_def": "11",
+      "war_atk": "14",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Catherine",
+      "alternative": "Hela",
+      "story": "8",
+      "cube": "12",
+      "kronos": "5",
+      "apep": "9",
+      "fafnir": "14",
+      "tower": "11",
+      "war_def": "14",
+      "war_atk": "13",
+      "class": "Supporto"
+    },
+    {
+      "name": "LiLing",
+      "alternative": "Nezha",
+      "story": "15",
+      "cube": "14",
+      "kronos": "14",
+      "apep": "7",
+      "fafnir": "8",
+      "tower": "14",
+      "war_def": "11",
+      "war_atk": "14",
+      "class": "Offensivo"
+    },
+    {
+      "name": "YeSuhua",
+      "alternative": "ShaoSiming",
+      "story": "14",
+      "cube": "12",
+      "kronos": "14",
+      "apep": "13",
+      "fafnir": "5",
+      "tower": "14",
+      "war_def": "12",
+      "war_atk": "12",
+      "class": "Supporto"
+    },
+    {
+      "name": "Narmer",
+      "alternative": "Ra",
+      "story": "10",
+      "cube": "14",
+      "kronos": "12",
+      "apep": "12",
+      "fafnir": "2",
+      "tower": "14",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Donar",
+      "alternative": "Thor",
+      "story": "12",
+      "cube": "13",
+      "kronos": "10",
+      "apep": "7",
+      "fafnir": "7",
+      "tower": "12",
+      "war_def": "15",
+      "war_atk": "14",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Tiye",
+      "alternative": "Nut",
+      "story": "12",
+      "cube": "13",
+      "kronos": "13",
+      "apep": "8",
+      "fafnir": "2",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Controllo"
+    },
+    {
+      "name": "Hyde",
+      "alternative": "Hades",
+      "story": "7",
+      "cube": "12",
+      "kronos": "2",
+      "apep": "12",
+      "fafnir": "12",
+      "tower": "9",
+      "war_def": "13",
+      "war_atk": "13",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Sienna",
+      "alternative": "Gaia",
+      "story": "13",
+      "cube": "14",
+      "kronos": "6",
+      "apep": "7",
+      "fafnir": "4",
+      "tower": "15",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "TangYun",
+      "alternative": "MacacoaOrecchie",
+      "story": "10",
+      "cube": "13",
+      "kronos": "6",
+      "apep": "8",
+      "fafnir": "15",
+      "tower": "14",
+      "war_def": "5",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Triki",
+      "alternative": "Loki",
+      "story": "8",
+      "cube": "15",
+      "kronos": "1",
+      "apep": "2",
+      "fafnir": "11",
+      "tower": "14",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Controllo"
+    },
+    {
+      "name": "LongMian",
+      "alternative": "AoBing",
+      "story": "14",
+      "cube": "14",
+      "kronos": "7",
+      "apep": "5",
+      "fafnir": "5",
+      "tower": "14",
+      "war_def": "14",
+      "war_atk": "15",
+      "class": "Controllo"
+    },
+    {
+      "name": "Raven",
+      "alternative": "Odin",
+      "story": "10",
+      "cube": "15",
+      "kronos": "5",
+      "apep": "4",
+      "fafnir": "7",
+      "tower": "13",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Sander",
+      "alternative": "Set",
+      "story": "11",
+      "cube": "12",
+      "kronos": "15",
+      "apep": "11",
+      "fafnir": "6",
+      "tower": "14",
+      "war_def": "7",
+      "war_atk": "11",
+      "class": "Controllo"
+    },
+    {
+      "name": "HengYue",
+      "alternative": "Chang'e",
+      "story": "10",
+      "cube": "12",
+      "kronos": "5",
+      "apep": "12",
+      "fafnir": "9",
+      "tower": "12",
+      "war_def": "10",
+      "war_atk": "11",
+      "class": "Supporto"
+    },
+    {
+      "name": "Lewis",
+      "alternative": "Ares",
+      "story": "11",
+      "cube": "13",
+      "kronos": "14",
+      "apep": "14",
+      "fafnir": "2",
+      "tower": "13",
+      "war_def": "8",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "RenSi",
+      "alternative": "TartarugaNera",
+      "story": "11",
+      "cube": "14",
+      "kronos": "8",
+      "apep": "7",
+      "fafnir": "2",
+      "tower": "13",
+      "war_def": "15",
+      "war_atk": "14",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Jeanne",
+      "alternative": "Gerd",
+      "story": "11",
+      "cube": "11",
+      "kronos": "11",
+      "apep": "1",
+      "fafnir": "11",
+      "tower": "11",
+      "war_def": "11",
+      "war_atk": "14",
+      "class": "Controllo"
+    },
+    {
+      "name": "Lynn",
+      "alternative": "Hathor",
+      "story": "10",
+      "cube": "9",
+      "kronos": "5",
+      "apep": "11",
+      "fafnir": "14",
+      "tower": "9",
+      "war_def": "7",
+      "war_atk": "9",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Bonnie",
+      "alternative": "Eris",
+      "story": "9",
+      "cube": "11",
+      "kronos": "5",
+      "apep": "4",
+      "fafnir": "6",
+      "tower": "12",
+      "war_def": "15",
+      "war_atk": "15",
+      "class": "Supporto"
+    },
+    {
+      "name": "Tevor",
+      "alternative": "Sfinge",
+      "story": "11",
+      "cube": "13",
+      "kronos": "7",
+      "apep": "9",
+      "fafnir": "6",
+      "tower": "10",
+      "war_def": "10",
+      "war_atk": "13",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Asenath",
+      "alternative": "Nefertem",
+      "story": "12",
+      "cube": "9",
+      "kronos": "11",
+      "apep": "8",
+      "fafnir": "5",
+      "tower": "11",
+      "war_def": "12",
+      "war_atk": "12",
+      "class": "Supporto"
+    },
+    {
+      "name": "Pritzker",
+      "alternative": "Mimir",
+      "story": "14",
+      "cube": "15",
+      "kronos": "5",
+      "apep": "5",
+      "fafnir": "2",
+      "tower": "15",
+      "war_def": "12",
+      "war_atk": "14",
+      "class": "Controllo"
+    },
+    {
+      "name": "Berenice",
+      "alternative": "Bastet",
+      "story": "12",
+      "cube": "10",
+      "kronos": "7",
+      "apep": "7",
+      "fafnir": "15",
+      "tower": "9",
+      "war_def": "6",
+      "war_atk": "7",
+      "class": "Supporto"
+    },
+    {
+      "name": "JinYuyao",
+      "alternative": "QueenMother",
+      "story": "7",
+      "cube": "13",
+      "kronos": "4",
+      "apep": "7",
+      "fafnir": "5",
+      "tower": "14",
+      "war_def": "11",
+      "war_atk": "13",
+      "class": "Supporto"
+    },
+    {
+      "name": "UnkyChai",
+      "alternative": "YueLao",
+      "story": "11",
+      "cube": "12",
+      "kronos": "11",
+      "apep": "11",
+      "fafnir": "5",
+      "tower": "11",
+      "war_def": "7",
+      "war_atk": "9",
+      "class": "Supporto"
+    },
+    {
+      "name": "Lauren",
+      "alternative": "Heket",
+      "story": "7",
+      "cube": "12",
+      "kronos": "6",
+      "apep": "6",
+      "fafnir": "11",
+      "tower": "12",
+      "war_def": "8",
+      "war_atk": "8",
+      "class": "Supporto"
+    },
+    {
+      "name": "Celine",
+      "alternative": "Siren",
+      "story": "12",
+      "cube": "12",
+      "kronos": "12",
+      "apep": "6",
+      "fafnir": "5",
+      "tower": "10",
+      "war_def": "9",
+      "war_atk": "10",
+      "class": "Controllo"
+    },
+    {
+      "name": "Biondina",
+      "alternative": "Poseidon",
+      "story": "7",
+      "cube": "8",
+      "kronos": "8",
+      "apep": "2",
+      "fafnir": "7",
+      "tower": "10",
+      "war_def": "12",
+      "war_atk": "15",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Mona",
+      "alternative": "Artemis",
+      "story": "15",
+      "cube": "10",
+      "kronos": "11",
+      "apep": "4",
+      "fafnir": "5",
+      "tower": "9",
+      "war_def": "10",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Freddy",
+      "alternative": "Fenrir",
+      "story": "11",
+      "cube": "10",
+      "kronos": "12",
+      "apep": "12",
+      "fafnir": "1",
+      "tower": "9",
+      "war_def": "8",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Eira",
+      "alternative": "Freya",
+      "story": "12",
+      "cube": "13",
+      "kronos": "14",
+      "apep": "7",
+      "fafnir": "1",
+      "tower": "11",
+      "war_def": "9",
+      "war_atk": "8",
+      "class": "Supporto"
+    },
+    {
+      "name": "Drew",
+      "alternative": "Anubis",
+      "story": "12",
+      "cube": "8",
+      "kronos": "12",
+      "apep": "12",
+      "fafnir": "2",
+      "tower": "8",
+      "war_def": "7",
+      "war_atk": "12",
+      "class": "Offensivo"
+    },
+    {
+      "name": "TangXuan",
+      "alternative": "SunWukong",
+      "story": "12",
+      "cube": "13",
+      "kronos": "6",
+      "apep": "8",
+      "fafnir": "2",
+      "tower": "11",
+      "war_def": "10",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Melanie",
+      "alternative": "Medusa",
+      "story": "11",
+      "cube": "10",
+      "kronos": "14",
+      "apep": "7",
+      "fafnir": "1",
+      "tower": "9",
+      "war_def": "10",
+      "war_atk": "11",
+      "class": "Controllo"
+    },
+    {
+      "name": "ChangPu",
+      "alternative": "YaoJi",
+      "story": "11",
+      "cube": "9",
+      "kronos": "8",
+      "apep": "12",
+      "fafnir": "9",
+      "tower": "8",
+      "war_def": "5",
+      "war_atk": "5",
+      "class": "Supporto"
+    },
+    {
+      "name": "Dhalia",
+      "alternative": "Calypso",
+      "story": "9",
+      "cube": "8",
+      "kronos": "12",
+      "apep": "2",
+      "fafnir": "2",
+      "tower": "12",
+      "war_def": "12",
+      "war_atk": "13",
+      "class": "Supporto"
+    },
+    {
+      "name": "LuYi",
+      "alternative": "Dayi",
+      "story": "9",
+      "cube": "7",
+      "kronos": "5",
+      "apep": "6",
+      "fafnir": "15",
+      "tower": "4",
+      "war_def": "4",
+      "war_atk": "6",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Q",
+      "alternative": "Eros",
+      "story": "9",
+      "cube": "10",
+      "kronos": "10",
+      "apep": "11",
+      "fafnir": "2",
+      "tower": "9",
+      "war_def": "5",
+      "war_atk": "7",
+      "class": "Supporto"
+    },
+    {
+      "name": "XieChuyi",
+      "alternative": "GuardiaMortaHei",
+      "story": "9",
+      "cube": "9",
+      "kronos": "8",
+      "apep": "3",
+      "fafnir": "7",
+      "tower": "8",
+      "war_def": "7",
+      "war_atk": "9",
+      "class": "Offensivo"
+    },
+    {
+      "name": "XiaYuzhi",
+      "alternative": "GuardiaMortaBai",
+      "story": "8",
+      "cube": "9",
+      "kronos": "6",
+      "apep": "3",
+      "fafnir": "6",
+      "tower": "8",
+      "war_def": "6",
+      "war_atk": "6",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Cecilia",
+      "alternative": "Isis",
+      "story": "8",
+      "cube": "9",
+      "kronos": "5",
+      "apep": "7",
+      "fafnir": "2",
+      "tower": "8",
+      "war_def": "8",
+      "war_atk": "11",
+      "class": "Supporto"
+    },
+    {
+      "name": "Djoser",
+      "alternative": "Atum",
+      "story": "7",
+      "cube": "8",
+      "kronos": "8",
+      "apep": "10",
+      "fafnir": "2",
+      "tower": "7",
+      "war_def": "7",
+      "war_atk": "7",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Zelmer",
+      "alternative": "Sekhmet",
+      "story": "4",
+      "cube": "7",
+      "kronos": "5",
+      "apep": "11",
+      "fafnir": "12",
+      "tower": "4",
+      "war_def": "3",
+      "war_atk": "3",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Anesidora",
+      "alternative": "Pandora",
+      "story": "7",
+      "cube": "15",
+      "kronos": "1",
+      "apep": "1",
+      "fafnir": "1",
+      "tower": "15",
+      "war_def": "8",
+      "war_atk": "11",
+      "class": "Supporto"
+    },
+    {
+      "name": "Jacob",
+      "alternative": "Jormungand",
+      "story": "9",
+      "cube": "12",
+      "kronos": "2",
+      "apep": "15",
+      "fafnir": "2",
+      "tower": "7",
+      "war_def": "4",
+      "war_atk": "4",
+      "class": "Controllo"
+    },
+    {
+      "name": "JiangMan",
+      "alternative": "MengPo",
+      "story": "12",
+      "cube": "10",
+      "kronos": "5",
+      "apep": "1",
+      "fafnir": "2",
+      "tower": "11",
+      "war_def": "5",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "LuoYan",
+      "alternative": "YanluoWang",
+      "story": "8",
+      "cube": "14",
+      "kronos": "1",
+      "apep": "1",
+      "fafnir": "1",
+      "tower": "13",
+      "war_def": "8",
+      "war_atk": "9",
+      "class": "Supporto"
+    },
+    {
+      "name": "Chalmers",
+      "alternative": "Idun",
+      "story": "1",
+      "cube": "8",
+      "kronos": "13",
+      "apep": "14",
+      "fafnir": "2",
+      "tower": "7",
+      "war_def": "1",
+      "war_atk": "1",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Kaylee",
+      "alternative": "Anuket",
+      "story": "6",
+      "cube": "7",
+      "kronos": "8",
+      "apep": "2",
+      "fafnir": "3",
+      "tower": "6",
+      "war_def": "7",
+      "war_atk": "8",
+      "class": "Controllo"
+    },
+    {
+      "name": "Falken",
+      "alternative": "Horus",
+      "story": "7",
+      "cube": "9",
+      "kronos": "3",
+      "apep": "4",
+      "fafnir": "2",
+      "tower": "8",
+      "war_def": "8",
+      "war_atk": "7",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Taylor",
+      "alternative": "Hercules",
+      "story": "7",
+      "cube": "7",
+      "kronos": "4",
+      "apep": "4",
+      "fafnir": "1",
+      "tower": "7",
+      "war_def": "4",
+      "war_atk": "11",
+      "class": "Offensivo"
+    },
+    {
+      "name": "BaiLiuli",
+      "alternative": "SerpenteBianco",
+      "story": "6",
+      "cube": "5",
+      "kronos": "4",
+      "apep": "7",
+      "fafnir": "4",
+      "tower": "4",
+      "war_def": "5",
+      "war_atk": "6",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Alexa",
+      "alternative": "Aphrodite",
+      "story": "7",
+      "cube": "9",
+      "kronos": "2",
+      "apep": "2",
+      "fafnir": "2",
+      "tower": "7",
+      "war_def": "5",
+      "war_atk": "7",
+      "class": "Supporto"
+    },
+    {
+      "name": "Leon",
+      "alternative": "Vali",
+      "story": "3",
+      "cube": "8",
+      "kronos": "12",
+      "apep": "5",
+      "fafnir": "2",
+      "tower": "6",
+      "war_def": "2",
+      "war_atk": "2",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Arcana",
+      "alternative": "Hermes",
+      "story": "4",
+      "cube": "6",
+      "kronos": "2",
+      "apep": "1",
+      "fafnir": "2",
+      "tower": "5",
+      "war_def": "7",
+      "war_atk": "8",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Brynn",
+      "alternative": "Valchiria",
+      "story": "7",
+      "cube": "6",
+      "kronos": "5",
+      "apep": "5",
+      "fafnir": "3",
+      "tower": "3",
+      "war_def": "4",
+      "war_atk": "4",
+      "class": "Supporto"
+    },
+    {
+      "name": "LiAo",
+      "alternative": "TaoTie",
+      "story": "5",
+      "cube": "6",
+      "kronos": "1",
+      "apep": "1",
+      "fafnir": "1",
+      "tower": "5",
+      "war_def": "6",
+      "war_atk": "9",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Bardon",
+      "alternative": "Baldr",
+      "story": "4",
+      "cube": "4",
+      "kronos": "2",
+      "apep": "3",
+      "fafnir": "2",
+      "tower": "4",
+      "war_def": "7",
+      "war_atk": "5",
+      "class": "Difensivo"
+    },
+    {
+      "name": "Hall",
+      "alternative": "Hodur",
+      "story": "2",
+      "cube": "2",
+      "kronos": "1",
+      "apep": "4",
+      "fafnir": "11",
+      "tower": "1",
+      "war_def": "1",
+      "war_atk": "1",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Helena",
+      "alternative": "Helen",
+      "story": "9",
+      "cube": "3",
+      "kronos": "7",
+      "apep": "4",
+      "fafnir": "2",
+      "tower": "3",
+      "war_def": "2",
+      "war_atk": "2",
+      "class": "Supporto"
+    },
+    {
+      "name": "Kara",
+      "alternative": "Serket",
+      "story": "6",
+      "cube": "5",
+      "kronos": "1",
+      "apep": "6",
+      "fafnir": "1",
+      "tower": "3",
+      "war_def": "2",
+      "war_atk": "2",
+      "class": "Offensivo"
+    },
+    {
+      "name": "Layla",
+      "alternative": "Medjed",
+      "story": "2",
+      "cube": "5",
+      "kronos": "1",
+      "apep": "6",
+      "fafnir": "2",
+      "tower": "2",
+      "war_def": "1",
+      "war_atk": "2",
+      "class": "Offensivo"
+    },
+    {
+      "name": "David",
+      "alternative": "Jason",
+      "story": "1",
+      "cube": "1",
+      "kronos": "1",
+      "apep": "1",
+      "fafnir": "2",
+      "tower": "1",
+      "war_def": "3",
+      "war_atk": "3",
+      "class": "Offensivo"
     }
   ]
 }
