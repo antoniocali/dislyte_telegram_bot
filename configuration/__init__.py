@@ -32,7 +32,7 @@ class Config:
 
     def get_esper(self, name: str) -> Optional[Esper]:
         for elem in self.espers:
-            if elem.name.lower() == name.lower() or elem.alternative.lower() == name.lower():
+            if elem.name.lower() == name.replace(" ", "").lower() or elem.alternative.lower() == name.replace(" ", "").lower():
                 return elem
 
         return None
