@@ -1,6 +1,6 @@
 import json
 from models import Esper
-from utils import text_to_esper_class
+from utils import text_to_esper_class, normalize
 from typing import Optional
 
 class Config:
@@ -32,7 +32,7 @@ class Config:
 
     def get_esper(self, name: str) -> Optional[Esper]:
         for elem in self.espers:
-            if elem.name.lower() == name.replace(" ", "").lower() or elem.alternative.lower() == name.replace(" ", "").lower():
+            if normalize(elem.name) == normalize(name) or normalize(elem.alternative) == normalize(name):
                 return elem
 
         return None

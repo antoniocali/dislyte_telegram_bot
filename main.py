@@ -32,7 +32,7 @@ async def analyze(update: Update, context: CallbackContext.DEFAULT_TYPE):
     sets: Set[Esper] = set([config.get_esper(esper) for esper in possible_espers])
     if len(sets) != 5:
         await context.bot.send_message(chat_id=update.effective_chat.id,
-                                       text=f"{update.effective_user.name} Ho trovato solo {len(sets) - 1} Espers [{', '.join([esper.name for esper in sets - set(None)])}]")
+                                       text=f"{update.effective_user.name} Ho trovato solo {len(sets)} Espers [{', '.join([esper.name for esper in sets if esper])}]")
         return
 
     stats = Stats(list(sets))
