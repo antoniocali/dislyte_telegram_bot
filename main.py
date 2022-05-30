@@ -39,8 +39,9 @@ async def analyze(update: Update, context: CallbackContext.DEFAULT_TYPE):
 
     await context.bot.send_message(chat_id=update.effective_chat.id,
                                    text=f"""
-{update.effective_user.name} Ho analizzato i tuoi esper sono [{', '.join([esper.name for esper in sets])}]
+{update.effective_user.name} Ho analizzato i tuoi esper {', '.join([esper.name for esper in sets])}
 
+Punteggio:
 {calc_stats(stats)}
 
 """, parse_mode=ParseMode.MARKDOWN)
