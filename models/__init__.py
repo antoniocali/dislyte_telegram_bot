@@ -1,6 +1,8 @@
 from dataclasses import dataclass
-from typing import List
+from typing import List, Dict
 import enum
+import operator
+from collections import Counter
 
 
 class EsperClass(enum.IntEnum):
@@ -34,4 +36,12 @@ class Stats:
         self.fafnir: int = sum([esper.fafnir for esper in espers])
         self.war_def: int = sum([esper.war_def for esper in espers])
         self.war_atk: int = sum([esper.war_atk for esper in espers])
-        self.classes: List[str] = [esper.esper_class.value for esper in espers]
+        self.classes: List[str] = [esper.esper_class.name for esper in espers]
+
+    def get_worse(self, attribute: str) -> Esper:
+        worst = sorted(self.espers, key=operator.attrgetter(attribute))
+        return worst[0]
+
+    def get_classes(self) -> Dict[str, int]:
+        counter = Counter(self.classes)
+        return dict(counter)
