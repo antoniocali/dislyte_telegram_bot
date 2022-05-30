@@ -12,7 +12,7 @@ def create_config(file_name: str):
                 print(name)
                 return
 
-            story, cube, kronos, apep, fafnir, tower, war_def, war_atk = values.split(",")
+            story, cube, kronos, apep, fafnir, tower, war_def, war_atk = [int(value) for value in values.split(",")]
             esper_class = line.split(":")[1].split(" ")[1].replace("\n", "")
             esper_output.append({
                 "name": name,

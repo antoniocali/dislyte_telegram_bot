@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from typing import List
 import enum
 
 
@@ -21,3 +22,16 @@ class Esper:
     war_def: int
     war_atk: int
     esper_class: EsperClass
+
+
+class Stats:
+    def __init__(self, espers: List[Esper]):
+        self.espers: List[Esper] = espers
+        self.story: int = sum([esper.story for esper in espers])
+        self.cube: int = sum([esper.cube for esper in espers])
+        self.kronos: int = sum([esper.kronos for esper in espers])
+        self.apep: int = sum([esper.apep for esper in espers])
+        self.fafnir: int = sum([esper.fafnir for esper in espers])
+        self.war_def: int = sum([esper.war_def for esper in espers])
+        self.war_atk: int = sum([esper.war_atk for esper in espers])
+        self.classes: List[str] = [esper.esper_class.value for esper in espers]
