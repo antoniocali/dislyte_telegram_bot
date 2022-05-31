@@ -9,5 +9,5 @@ setup(
     author_email='antoniodavidecali@gmail.com',
     description='Dislyte Telegram Bot',
     package=find_packages(),
-    install_requires=["easyocr", "python-telegram-bot>=20.0a0", "dynaconf"]
+    install_requires=["easyocr", "python-telegram-bot>=20.0a0", "dynaconf", "markdown"]
 )

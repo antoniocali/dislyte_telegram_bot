@@ -1,14 +1,14 @@
 import json
 from models import Esper
 from utils import text_to_esper_class, normalize
-from typing import Optional
+from typing import Optional, List
 
 class Config:
     def __init__(self, source: str):
         self.source = str
         conf = json.load(open(source))
         espers = conf["espers"]
-        self.espers = [Esper(
+        self.espers: List[Esper] = [Esper(
             name=elem["name"],
             alternative=elem["alternative"],
             story=elem["story"],
