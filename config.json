@@ -922,6 +922,19 @@
       "war_def": 3,
       "war_atk": 3,
       "class": "Offensivo"
+    },
+    {
+      "name": "Ollie",
+      "alternative": "Osiris",
+      "story": 13,
+      "cube": 12,
+      "kronos": 12,
+      "apep": 9,
+      "fafnir": 11,
+      "tower": 15,
+      "war_def": 14,
+      "war_atk": 15,
+      "class": "Offensivo"
     }
   ]
 }
